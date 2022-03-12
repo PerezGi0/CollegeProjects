@@ -14,6 +14,13 @@ O código simula através de terminal e não possui GUI, com as seguintes funç�
 -Comunidade: Ver as comunidades disponíveis, publicar em uma das suas, criar uma nova comunidade.
 -Sair.
 
+Sumário:
+- PERFIL.h e PERFIL.c constituem a biblioteca que criei para o projeto, contendo as funções necessárias para manipular
+as entidades do projeto (Feed, lista de amigos, mensagens, etc...)
+
+- teste.c contém um pequeno "banco de dados" com algumas contas e ações pré-definidas para que ao rodar o código, usuários já existam previamente.
+Também contém toda a main() e o menu que será exibido no terminal.
+
 -------------------------------------------------------------------------------------------------------------------------
 
 The following project was an "Algotitms and data Structure I" code using C,
@@ -31,3 +38,10 @@ The code simulate it through terminal and has no GUI, with the following functio
 -MailBox: Send message, see your mailbox
 -Community: See available communities, publish on one of yours, create a new community.
 -Log off.
+
+Summary:
+- PERFIL.h and PERFIL.c constitute the library that I created for the project, containing the necessary functions to manipulate
+the project entities (Feed, friends list, messages, etc...)
+
+- test.c contains a small "database" with some accounts and pre-defined actions so that when running the code, users already exist.
+It also contains all the main() and the menu that will be displayed in the terminal.
