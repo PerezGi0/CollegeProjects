@@ -127,7 +127,7 @@ class Application:
 		self.b10.pack (side=RIGHT)
 
 
-		self.aux = PhotoImage(file = "f2.png")
+		self.aux = PhotoImage(file = "img.png")
 		self.img = Label(self.w7, image = self.aux)
 		self.img.pack(side = "bottom")
 
