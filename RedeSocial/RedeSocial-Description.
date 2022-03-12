@@ -1,0 +1,33 @@
+O projeto a seguir foi um código da disciplina "Algoritmos e estruturas de dados I" usando C,
+desenvolvido em 2021 para simular uma rede social usando conceitos como:
+
+-Lista encadeada simples.
+-Listas duplamente encadeadas e seus algoritmos básicos como insert(), remove(), search()...
+
+O código simula através de terminal e não possui GUI, com as seguintes funções:
+-Criar conta.
+-Login em uma conta existente.
+-Perfil: É possível ver seu perfil, editá-lo (nome, biografia...), pesquisar o perfil de outro usuário e alterar a senha.
+-Feed: Publicar no seu feed, pesquisar o feed de outro usuário.
+-Lista de amigos: Adicione um amigo, ver sua lista de amigos, pesquisar a lista de amigos de outro usuário.
+-MailBox: Enviar mensagem, ver sua caixa de correio
+-Comunidade: Ver as comunidades disponíveis, publicar em uma das suas, criar uma nova comunidade.
+-Sair.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+The following project was an "Algotitms and data Structure I" code using C,
+developed on 2021 to simulate a social media using concepts as:
+
+-Linked list.
+-Double linked lists and their basic algoritms as insert(), remove(), search()...
+
+The code simulate it through terminal and has no GUI, with the following functions:
+-Create an account.
+-Login on an existing account.
+-Profile: It is possible to see you profile, edit it (name, bio...), search other user's profile, and change password.
+-Feed: Publish on you profile's feed, searching other user's feed.
+-Friends list: Add a friend, see your friend list, search other user's friend list.
+-MailBox: Send message, see your mailbox
+-Community: See available communities, publish on one of yours, create a new community.
+-Log off.
