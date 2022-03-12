@@ -5,3 +5,6 @@ The main subjects conteined here are projects from:
 - Object-Oriented programming (using JAVA)
 - Algoritms and Data Structure I (using C)
 - Algoritms and Data Structure II (using C)
+
+IMPORTANT - I'm Brazilian so it might be confusing because some of the codes that will
+be posted here are with variables and comments on portuguese :)
