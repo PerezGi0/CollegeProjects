@@ -1,0 +1,14 @@
+This code was developed on 2022 for the subject "Algorithms and data structure II".
+It simulates the implementation of Graphs by using linked list to represent each node's edges.
+
+Use the concepts of:
+- Graphs.
+- Linked list.
+- Adjacency list.
+
+Functionalities:
+Implements the basic algorithms to manipulate a Adjacency list.
+
+- initialize()
+- search()
+- insert()
