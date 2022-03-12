@@ -1,0 +1,118 @@
+Este projeto foi da matéria "Banco de Dados" e foi desenvolvido utilizando SQL e python.
+O código simula um portal de uma universidade com interface gráfica usando python, que interage diretamente com o
+banco de dados desenvolvido usando SQL, com funções que serão discutidas mais adiante.
+
+Foi feita uma conexão entre o banco de dados e o código, desta forma pude fazer a interface gráfica
+e suas funções, que são aplicadas ao banco de dados à medida que o usuário interage
+com a interface.
+
+Arquivos:
+cadastro.py tem a conexão entre o banco de dados e o código.
+mainBD.py tem a interface gráfica e a interação com o usuário.
+giovannaperezBD.sql tem o banco de dados.
+
+A GUI foi desenvolvida usando a biblioteca Tkinter.
+Em cada botão da tela principal, ele abre uma nova tela relacionada à ação que desejamos realizar
+em nosso banco de dados da universidade.
+Cada função equivale a um botão da GUI que performa o comando SQL correspondente.
+
+Funções:
+- Registrar um novo aluno.
+Abre uma tela que solicita os atributos do aluno e realiza o cadastro.
+
+- Registrar um novo professor.
+Abre uma tela que solicita os atributos do professor e realiza o cadastro.
+
+- Registrar um novo funcionário.
+Abre uma tela que solicita os atributos do funcionário e realiza o cadastro.
+
+- Registrar um novo setor.
+Abre uma tela que solicita os atributos do setor e realiza o cadastro.
+
+- Registrar um novo curso.
+Abre uma tela que solicita as informações do curso e realiza o cadastro.
+
+-Cadastrar uma nova disciplina.
+Abre uma tela que solicita as informações da disciplina e realiza o cadastro.
+
+- Gerenciar uma matrícula.
+Abre uma tela que o aluno pode se matricular em uma disciplina.
+
+- Publicar notas.
+Abre uma tela que o professor pode publicar as notas de uma disciplina.
+
+- Próxima página.
+Esta funcionalidade abre uma nova tela com mais funções/botões. Mas devido ao tempo que eu tinha
+para enviar este projeto, estas funcionalidades são implementadas apenas através de terminal.
+
+As funções através do terminal são:
+- Turmas com maior número de alunos.
+- Quantos professores estão atualmente ativos por curso.
+- Salário médio dos professores por curso.
+- Folha de Pagamento dos Departamentos.
+- Média de notas por disciplina do professor.
+- Cursos que cada professor trabalha.
+- O professor mais antigo da faculdade.
+- Número de alunos por curso.
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+This project was from the subject "Database" and was developed using SQL and python.
+The code simulate a University application using python, that interacts directly with the university's 
+database developed using SQL, with functions that wil be discussed further.
+It was made a conection between the database and the code, this way we could make the GUI 
+and the functions that would be applied as the user interacts
+with the interface.
+
+Files:
+cadastro.py has the connection between the database and the code.
+mainBD.py has the GUI and the interaction with the user.
+giovannaperezBD.sql has the database.
+
+The GUI was developed using de library Tkinter.
+In each main screen button, it opens a new screen relationated to the action we want to perform
+on our univerty database.
+For each function performed, we're applying button handler that applies the correspondent SQL command.
+
+Functions:
+- Register a new student.
+Opens a screen that ask for the student's atributes, and then register him/her.
+
+- Register a new teacher.
+Opens a screen that ask for the teatcher's atributes, and then register him/her.
+
+- Register a new employee.
+Opens a screen that ask for the employee's atributes, and then register him/her.
+
+- Register a new sector.
+Opens a screen that ask for the sector's atributes, and then register it.
+
+- Register a new college course.
+Opens a screen that ask for the course's informations, and then register it.
+
+-Register a new subject.
+Opens a screen that ask for the subject's informations, and then register him/her.
+
+- Manage a registration.
+Opens a screen that the student can registrate himself on a subject.
+
+- Publish grades.
+Opens a screen that the teachet can publish a subject's grades.
+
+- Next page.
+This functionallity opens a new screen with more functions/buttons. But due to the timegap I had
+to send this project this functionallities works through terminal only.
+
+The functions through terminal are:
+- Classes with the most number of students.
+- How many teachers are currently active per course.
+- Average teachers wage per course.
+- Departments Payroll.
+- Average grades per teacher's subject.
+- Courses that each teacher works.
+- College's oldest teacher.
+- Number of students per course.
+
+
