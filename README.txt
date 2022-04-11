@@ -7,7 +7,7 @@ The main subjects conteined here are projects from:
 - Algorithms and Data Structure II (using C)
 - Databases (Using SQL)
 
-IMPORTANT - For each folder, I have a file with "description" on the name.
+IMPORTANT - For each folder, I have a file with "description" in the name.
 It is importante for you to read it first because I describe the all the code's funcionalities
 and the concept I used to develop the code.
 
