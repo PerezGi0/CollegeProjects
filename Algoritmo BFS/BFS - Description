@@ -1,0 +1,27 @@
+This code was developed using C for the subject "Algorithms and data structure 2".
+The idea is implement Breadth-First Search, an algorithm very important when we're talking
+about Graphs. The code receive a graph and execute the BFS, updating the informations of every knot's:
+- predecessor;
+- distance to the initial knot;
+- color;
+Also update on every step the line of knots to be explored.
+
+The first line contain 4 entries formated as 4 integers that represents: The number of knots, the number of edges,
+if the graph is directional or not (1 for directional and 0 for not), and the initial knot.
+
+The following lines after this one are every edge at the graph.
+
+---------------------------------------------------------------------------------------------------------------
+
+Este código foi desenvolvido em C para a diciplina "Algoritmos e estrutura de dados 2".
+A ideia é implementar o Breadth-First Search, um algoritmo muito importante quando estamos falando
+sobre grafos. O código recebe um grafo e executa o BFS, atualizando as informações de cada nó:
+- antecessor;
+- distância ao nó inicial;
+- cor;
+Atualiza também a cada passo a fila de nós a serem explorados.
+
+A primeira linha de entrada contém 4 inteiros que representam: O número de nós, o número de arestas,
+se o gráfico é direcional ou não (1 para direcional e 0 para não), e o nó inicial.
+
+As linhas seguintes após esta são cada aresta do gráfico.
